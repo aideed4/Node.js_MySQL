@@ -1,0 +1,24 @@
+{
+  "name": "node.js_mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aideed4/Node.js_MySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aideed4/Node.js_MySQL/issues"
+  },
+  "homepage": "https://github.com/aideed4/Node.js_MySQL#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
